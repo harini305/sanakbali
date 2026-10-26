@@ -1,0 +1,13 @@
+# dependencies and build output
+node_modules
+.next
+out
+*.log
+
+# Phase 1 audit, original photos and screenshots: kept locally only.
+# They hold security-incident evidence and are not used by the site.
+docs/
+
+# local environment and Vercel link data
+.env*
+.vercel

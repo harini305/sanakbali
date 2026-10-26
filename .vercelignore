@@ -1,0 +1,4 @@
+# Only the app source and public/ are needed to build and serve the site.
+docs
+scripts
+README.md
